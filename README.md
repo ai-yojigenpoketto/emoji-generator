@@ -1,2 +1,2 @@
-# emoji-generator （WIP）
-emoji-generator
+# emoji-generator
+emoji-generator （WIP）
